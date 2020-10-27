@@ -27,14 +27,14 @@ Desarrolle el programa de forma tal que pueda utilizarse en otros programas como
 
 - Dos JPasswordField para ingresar la contraseña una para el login y otra para el check in
 
-- Creacion de etiquetado correspondinte a cada ventana para poder visualizar cada una de los JInternalFrame correspondintes. 
+- Creacion de etiquetado correspondiente a cada ventana para poder visualizar cada una de los JInternalFrame correspondintes. 
 
 - Creacion de un txt para guardar los usuarios
 
 # Pre-Requisitos
-Se ocupa tener instalo un IDE de java
+Se ocupa tener instalado un IDE de java
 Importar librerias internas del IDE
-Sisteme operaivo(Multli-Plataforma)
+Sistema operaivo(Multli-Plataforma)
 **Agradecimientos**
 Compañeros:
 - Leonel Aguirre.
