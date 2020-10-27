@@ -1,5 +1,5 @@
 # Login-check-in
-#lOGIN USERS
+# lOGIN USERS
 problema:
 Desarrollar un programa para el control de acceso a una aplicación por medio de un
 login y password, y utilizar un algoritmo de cifrado proporcionado por el lenguaje para el
@@ -39,7 +39,7 @@ Sisteme operaivo(Multli-Plataforma)
 Compañeros:
 - Leonel Aguirre.
 - Alexis Porras 
-Agradezco por orientarme en las dudas que iban surguiendo sobre el desarrolo del programa.
+Agradezco por orientarme en las dudas que iban surguiendo sobre el desarrollo del programa.
 
 # Bibliografia
 http://chuwiki.chuidiang.org/index.php?title=Ejemplo_sencillo_con_JInternalFrame
