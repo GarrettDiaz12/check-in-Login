@@ -1,5 +1,4 @@
 # Login-check-in
-# lOGIN USERS
 problema:
 Desarrollar un programa para el control de acceso a una aplicación por medio de un
 login y password, y utilizar un algoritmo de cifrado proporcionado por el lenguaje para el
