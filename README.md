@@ -34,7 +34,8 @@ Desarrolle el programa de forma tal que pueda utilizarse en otros programas como
 Se ocupa tener instalado un IDE de java
 Importar librerias internas del IDE
 Sistema operaivo(Multli-Plataforma)
-**Agradecimientos**
+
+# Agradecimientos
 Compañeros:
 - Leonel Aguirre.
 - Alexis Porras 
