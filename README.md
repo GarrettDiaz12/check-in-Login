@@ -1,11 +1,11 @@
-# Login-check-in:
-problema:
+# Login-check-in
+- problema:
 Desarrollar un programa para el control de acceso a una aplicación por medio de un
 login y password, y utilizar un algoritmo de cifrado proporcionado por el lenguaje para el
 resguardo seguro de las contraseñas.
 ----------------------------------------------------------------------------------------------------
-# Características solicitadas:
-Debe contener una ventana donde solicite un usuario y una contraseña, 
+# Características solicitadas
+- Debe contener una ventana donde solicite un usuario y una contraseña, 
 cuando se muestre la ventana no debe de permitir el acceso a otras ventanas del programa,
 si no se tiene un usuario y la contraseña validos se debe de terminar la aplicación.
 Debe de contener una herramienta para dar de alta y modificación de usuarios y contraseñas.
